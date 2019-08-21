@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//pkg/funcs/input_funcs/load_data.py=utf-8
+encoding//pkg/funcs/input_funcs/load_para.py=utf-8
+encoding//pkg/funcs/output_funcs/output_tools.py=utf-8
+encoding//pkg/funcs/plot_on_google_map/write_google_map.py=utf-8
+encoding//pkg/models/outlier/melody.py=utf-8
+encoding//pkg/models/selectPara.py=utf-8
